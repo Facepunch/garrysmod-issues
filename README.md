@@ -1,7 +1,11 @@
 garrysmod-issues
 ================
 
-This is the Garry's Mod issue tracker. Here's what to do:
+This is the Garry's Mod issue tracker. READ THIS BEFORE DOING ANYTHING:
+
+Help and Support
+---
+* This is not the place for help and support. Post here instead: http://facepunch.com/forumdisplay.php?f=16
 
 Reporting Bugs
 ---
