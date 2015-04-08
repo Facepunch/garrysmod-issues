@@ -16,7 +16,7 @@ Please follow these guidelines when reporting a bug:
 * If you can recreate the bug give us step by step
 * Make sure the bug hasn't already been reported
 * Tell us which version of GMod you experience the bug on (the top right corner in the menu)
-
+* Do not post TTT bugs here. You can either fix the problem and pull request a fix to [Garry's Mod GitHub Repo](https://github.com/garrynewman/garrysmod) or report the bug to the author of the gamemode.
 
 Feature Requests
 ---
