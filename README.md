@@ -6,6 +6,13 @@ Help and Support
 ---
 This is not the place for help and support. You can ask for help here instead: http://facepunch.com/forums/16
 
+Reporting Crashes
+---
+* Do not report a crash if you cannot provide any useful information about the crash. This includes:
+ * Crash logs
+ * Any way to reproduce the crash ( code or steps to do so )
+* Read more here: http://wiki.garrysmod.com/page/Crash_Reporting
+
 Reporting Bugs
 ---
 Please follow these guidelines when reporting a bug:
