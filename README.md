@@ -8,7 +8,7 @@ This is not the place for help and support. You can ask for help here instead: h
 
 Security Exploits
 ---
-If you've found a security exploit, please report it privately either by PMing at Facepunch Forums [Robotboy655]( https://facepunch.com/member.php?u=152306), [Willox]( https://facepunch.com/member.php?u=257577) or by emailing robotboy655@facepunchstudios.com, me@wiox.me.
+If you've found a security exploit, please report it privately either by PMing at Facepunch Forums [Robotboy655]( https://facepunch.com/member.php?u=152306), [Willox]( https://facepunch.com/member.php?u=257577) or by emailing robotboy655@facepunchstudios.com, willox@facepunchstudios.com.
 
 Reporting Crashes
 ---
