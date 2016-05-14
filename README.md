@@ -6,6 +6,10 @@ Help and Support
 ---
 This is not the place for help and support. You can ask for help here instead: http://facepunch.com/forums/16
 
+Security Exploits
+---
+If you've found a security exploit. Please report it privatly to us in a PM at Facepunch [Robotboy655]( https://facepunch.com/member.php?u=152306), [Willox]( https://facepunch.com/member.php?u=257577) or by email robotboy655@facepunchstudios.com, me@wiox.me.
+
 Reporting Crashes
 ---
 * Do not report a crash if you cannot provide any useful information about the crash. This includes:
