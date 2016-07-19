@@ -31,7 +31,7 @@ Reporting Crashes
 
 Translations
 ---
-You can contribute to the game's translations on the Crowdin'd Tranlsation Service:
+You can contribute to the game's translations on the following website:
 http://translate.garrysmod.com/project/garrysmod
 
 Feature Requests
