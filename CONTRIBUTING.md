@@ -6,12 +6,9 @@ Help and Support
 ---
 This is not the place for help and support. You can ask for help here instead: http://facepunch.com/forums/16
 
-Reporting Crashes
+Security Exploits
 ---
-* Do not report a crash if you cannot provide any useful information about the crash. This includes:
- * Crash logs
- * Any way to reproduce the crash ( code or steps to do so )
-* Read more here: http://wiki.garrysmod.com/page/Crash_Reporting
+If you've found a security exploit, please report it privately either by PMing at Facepunch Forums [Robotboy655]( https://facepunch.com/member.php?u=152306), [Willox]( https://facepunch.com/member.php?u=257577) or by emailing robotboy655@facepunchstudios.com, willox@facepunchstudios.com.
 
 Reporting Bugs
 ---
@@ -24,6 +21,18 @@ Please follow these guidelines when reporting a bug:
 * Make sure the bug hasn't already been reported
 * Tell us which version of GMod you experience the bug on (the top right corner in the menu)
 * Do not post TTT bugs here. You can either fix the problem and pull request a fix to [Garry's Mod GitHub Repo](https://github.com/garrynewman/garrysmod) or report the bug to the author of the gamemode.
+
+Reporting Crashes
+---
+* Do not report a crash if you cannot provide any useful information about the crash. This includes:
+ * Crash logs
+ * Any way to reproduce the crash ( code or steps to do so )
+* Read more here: http://wiki.garrysmod.com/page/Crash_Reporting
+
+Translations
+---
+You can contribute to the game's translations on the Crowdin'd Tranlsation Service:
+http://translate.garrysmod.com/project/garrysmod
 
 Feature Requests
 ---
