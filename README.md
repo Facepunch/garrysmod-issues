@@ -4,7 +4,7 @@ This is the Garry's Mod issue tracker. You can report bugs with the game here. T
 
 Help and Support
 ---
-This is not the place for help and support. You can ask for help here instead: https://forum.facepunch.com/f/gmodhelp
+This is not the place for help and support. You can ask for help as well as discuss game updates on the official [Discord](https://discord.gg/gmod) server.
 
 Security Exploits
 ---
