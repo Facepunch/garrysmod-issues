@@ -10,7 +10,7 @@ You can also contact [Facepunch Support](https://support.facepunchstudios.com/) 
 
 Security Exploits
 ---
-If you've found a security exploit, please report it privately by emailing robotboy655@facepunchstudios.com, or willox@facepunchstudios.com.
+If you've found a security exploit, please report it privately by emailing robotboy655@facepunchstudios.com.
 
 Reporting Bugs
 ---
