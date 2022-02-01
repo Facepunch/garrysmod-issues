@@ -29,7 +29,7 @@ Reporting Crashes
 * Do not report a crash if you cannot provide any useful information about the crash. This includes:
  * Crash logs
  * Any way to reproduce the crash ( code or steps to do so )
-* Read more here: http://wiki.garrysmod.com/page/Crash_Reporting
+* Read more here: https://wiki.facepunch.com/gmod/Crash_Reporting
 
 Translations
 ---
