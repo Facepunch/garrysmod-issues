@@ -8,9 +8,9 @@ This is not the place for help and support. You can ask for help from the commun
 
 You can also contact [Facepunch Support](https://support.facepunchstudios.com/) for technical support with the game (not modding help). 
 
-Security Exploits
+Security Exploits & Vulnerabilities
 ---
-If you've found a security exploit, please report it privately by emailing robotboy655@facepunchstudios.com.
+To report a vulnerability, please visit https://facepunch.com/security
 
 Reporting Bugs
 ---
