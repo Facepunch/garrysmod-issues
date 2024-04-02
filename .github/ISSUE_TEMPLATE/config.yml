@@ -1,0 +1,14 @@
+blank_issues_enabled : false
+
+contact_links:
+    -   name: "Feature request"
+        about: "If you wish to request a feature, please use this link"
+        url: "https://github.com/Facepunch/garrysmod-requests/issues/new/choose"
+
+    -   name: "Facepunch support"
+        about: "The official Facepunch customer support portal for game issues."
+        url: "https://support.facepunchstudios.com/"
+
+    -   name: "Official Discord server"
+        about: "The official Discord server for discussing the game, as well as community help with playing or modding the game"
+        url: "https://discord.gg/gmod"
