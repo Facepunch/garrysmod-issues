@@ -38,7 +38,7 @@ body:
       label: Version of the game
       description: |
          Please let us know what version of the game you are running. This info can be retrieved via the `version` console command. (SHIFT+ESC to open the console in-game)  
-      placeholder: Describe how to reproduce the issue here..
+      placeholder: Paste the outout of the `version` console command
     validations:
       required: true
   - type: dropdown
