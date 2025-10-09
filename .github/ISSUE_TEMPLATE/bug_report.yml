@@ -38,7 +38,7 @@ body:
       label: Version of the game
       description: |
          Please let us know what version of the game you are running. This info can be retrieved via the `version` console command. (SHIFT+ESC to open the console in-game)  
-      placeholder: Paste the outout of the "version" console command here..
+      placeholder: Paste the output of the "version" console command here..
     validations:
       required: true
   - type: dropdown
