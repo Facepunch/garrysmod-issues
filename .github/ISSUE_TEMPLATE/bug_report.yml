@@ -49,7 +49,7 @@ body:
       options:
         - None/Public/Default/Main
         - Dev beta
-        - prerelease
+        - Pre-Release beta
         - x86-64 beta
     validations:
       required: true
