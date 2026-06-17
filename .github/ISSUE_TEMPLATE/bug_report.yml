@@ -7,7 +7,7 @@ body:
         Before reporting an issue, please do the following:
         * Search existing issues to avoid creating duplicate ones.
         * Try running a different beta branch. (in case the issue is already fixed in the future update, or to confirm it is a regression)
-        * Try verifying your game file integrity in Steam.
+        * Try verifying your game file integrity in Steam before reporting an issue.
         * Please also test your issue without any addons to confirm the bug is not caused by an addon.
   - type: textarea
     id: the-report
