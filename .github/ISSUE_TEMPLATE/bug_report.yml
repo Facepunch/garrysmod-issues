@@ -8,7 +8,7 @@ body:
         * Search existing issues to avoid creating duplicate ones.
         * Try running a different beta branch. (in case the issue is already fixed in the future update, or to confirm it is a regression)
         * Try verifying your game file integrity in Steam before reporting an issue.
-        * Please also test your issue without any addons to confirm the bug is not causing by an addon.
+        * Please also test your issue without any addons to confirm the bug is not caused by an addon.
   - type: textarea
     id: the-report
     attributes:
@@ -49,6 +49,7 @@ body:
       options:
         - None/Public/Default/Main
         - Dev beta
+        - Pre-Release beta
         - x86-64 beta
     validations:
       required: true
