@@ -6,7 +6,9 @@ Help and Support
 ---
 This is not the place for help and support. You can ask for help from the community well as discuss game updates on the official [Discord server](https://discord.gg/gmod) (Please use appropriate channels - `#lua-help` for modding help and `#game-issues-help` for everything else).
 
-You can also contact [Facepunch Support](https://support.facepunchstudios.com/) for technical support with the game (not modding help). 
+You can also contact [Facepunch Support](https://support.facepunchstudios.com/) for technical support with the game (not modding help).
+
+For issues with Steam client and its features, please contact [Steam Support](https://help.steampowered.com/en/) instead.
 
 Security Exploits & Vulnerabilities
 ---
